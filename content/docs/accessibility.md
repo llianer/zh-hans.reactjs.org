@@ -503,7 +503,7 @@ VoiceOver 是苹果设备的自带屏幕朗读器。
 
 [Job Access With Speech](https://www.freedomscientific.com/Products/software/JAWS/)又称 JAWS，是一个常用的 Windows 屏幕朗读器。
 
-想要了解如何最好的使用 VoiceOver，请参考下面的指南：
+想要了解如何最好的使用 JAWS，请参考下面的指南：
 
 - [WebAIM —— 使用 JAWS 来评估网络的可无障碍访问性](https://webaim.org/articles/jaws/)
 - [Deque —— JAWS 键盘快捷键](https://dequeuniversity.com/screenreaders/jaws-keyboard-shortcuts)
